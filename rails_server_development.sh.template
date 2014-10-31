@@ -1,0 +1,2 @@
+#!/bin/sh
+USER_NAME='foo@example.com' PASSWORD='foobar' rails s
